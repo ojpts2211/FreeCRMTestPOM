@@ -5,9 +5,12 @@
   <test name="Free CRM App Test Data">
 
 
+
+
     <classes>
       <class name="com.qa.crm.testCases.LoginPageTest"> </class>
       <class name="com.qa.crm.testCases.HomePageTest"> </class>
+      <class name="com.qa.crm.testCases.ContactsPageTest"> </class>
     </classes>
   </test> <!-- Default test(failed) -->
 </suite>
